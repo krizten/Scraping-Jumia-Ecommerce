@@ -1,0 +1,5 @@
+scrapy
+pymongo
+openpyxl
+mysql-python
+mysql-server
